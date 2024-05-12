@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lotto_Console", "Lotto_Console\Lotto_Console.csproj", "{8B685330-6659-4D7D-967C-89879B09F8C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lotto_Form", "Lotto_Form\Lotto_Form.csproj", "{4C52A18F-FF56-464D-8583-407C4E381B6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B685330-6659-4D7D-967C-89879B09F8C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B685330-6659-4D7D-967C-89879B09F8C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B685330-6659-4D7D-967C-89879B09F8C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B685330-6659-4D7D-967C-89879B09F8C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C52A18F-FF56-464D-8583-407C4E381B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C52A18F-FF56-464D-8583-407C4E381B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C52A18F-FF56-464D-8583-407C4E381B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C52A18F-FF56-464D-8583-407C4E381B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {390A6AAD-6C6F-4C38-A1CF-FDD925BFD3C5}
+	EndGlobalSection
+EndGlobal
